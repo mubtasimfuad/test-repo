@@ -1,2 +1,2 @@
 Line 1 from laptop
-Line 3 from laptop
+Line 2 from desktop
