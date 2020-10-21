@@ -1,2 +1,3 @@
 Line 1 from laptop
 Line 2 from desktop
+This is from master branch
