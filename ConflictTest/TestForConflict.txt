@@ -5,5 +5,3 @@ This is from master branch
 =======
 This is from branch01
 >>>>>>> branch01
-
-This is from testrepo
