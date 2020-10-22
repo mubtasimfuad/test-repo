@@ -1,7 +1,3 @@
 Line 1 from laptop
 Line 2 from desktop
-<<<<<<< HEAD
-This is from master branch
-=======
-This is from branch01
->>>>>>> branch01
+From Another test repo
